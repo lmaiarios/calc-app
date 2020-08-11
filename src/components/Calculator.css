@@ -1,0 +1,10 @@
+.calculatorWrapper{
+    background-color: rgb(41, 113, 180);
+    border-radius: 15px;
+    padding: 15px;
+    margin: 15px;
+}
+
+* {
+    font-family: "Comic Sans MS";
+}
